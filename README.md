@@ -1,0 +1,1 @@
+A basic password-generator made using React & Tailwind CSS
